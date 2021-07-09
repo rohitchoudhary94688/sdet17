@@ -4,13 +4,13 @@ import org.testng.annotations.Test;
 
 public class SearchProductTest {
 
-	@Test
+	@Test(groups="smokeTest")
 	public void searchProductWithNameTest()
 	{
 		System.out.println("execute searchProduct with name");
 	}
 	
-	@Test
+	@Test(groups="regressionTest")
 	public void searchProductWithId()
 	{
 		System.out.println("execute searchProduct with id");
