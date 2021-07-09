@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T10:40:54Z" name="Command line suite" finished-at="2021-07-09T10:40:54Z" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T10:40:54Z" name="Command line test" finished-at="2021-07-09T10:40:54Z" duration-ms="96">
+      <class name="com.crm.vtiger.ProductTest.SearchProductTest">
+        <test-method signature="searchProductWithId()[pri:0, instance:com.crm.vtiger.ProductTest.SearchProductTest@3cb1ffe6]" started-at="2021-07-09T10:40:54Z" name="searchProductWithId" finished-at="2021-07-09T10:40:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductWithId -->
+        <test-method signature="searchProductWithNameTest()[pri:0, instance:com.crm.vtiger.ProductTest.SearchProductTest@3cb1ffe6]" started-at="2021-07-09T10:40:54Z" name="searchProductWithNameTest" finished-at="2021-07-09T10:40:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductWithNameTest -->
+      </class> <!-- com.crm.vtiger.ProductTest.SearchProductTest -->
+      <class name="com.crm.vtiger.ProductTest.CreateProductTest">
+        <test-method signature="createProductWithId()[pri:0, instance:com.crm.vtiger.ProductTest.CreateProductTest@2a742aa2]" started-at="2021-07-09T10:40:54Z" name="createProductWithId" finished-at="2021-07-09T10:40:54Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductWithId -->
+        <test-method signature="createProductWithNameTest()[pri:0, instance:com.crm.vtiger.ProductTest.CreateProductTest@2a742aa2]" started-at="2021-07-09T10:40:54Z" name="createProductWithNameTest" finished-at="2021-07-09T10:40:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductWithNameTest -->
+      </class> <!-- com.crm.vtiger.ProductTest.CreateProductTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
